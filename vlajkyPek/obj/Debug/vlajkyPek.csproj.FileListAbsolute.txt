@@ -1,0 +1,12 @@
+C:\Users\Peki\Documents\SharpDevelop Projects\vlajkyPek\vlajkyPek\bin\Debug\vlajkyPek.exe.config
+C:\Users\Peki\Documents\SharpDevelop Projects\vlajkyPek\vlajkyPek\bin\Debug\vlajkyPek.exe
+C:\Users\Peki\Documents\SharpDevelop Projects\vlajkyPek\vlajkyPek\bin\Debug\vlajkyPek.pdb
+C:\Users\Peki\Documents\SharpDevelop Projects\vlajkyPek\vlajkyPek\obj\Debug\vlajkyPek.csprojResolveAssemblyReference.cache
+C:\Users\Peki\Documents\SharpDevelop Projects\vlajkyPek\vlajkyPek\obj\Debug\vlajkyPek.exe
+C:\Users\Peki\Documents\SharpDevelop Projects\vlajkyPek\vlajkyPek\obj\Debug\vlajkyPek.pdb
+C:\Users\Peki\Documents\SharpDevelop Projects\Hotové programy\vlajkyPek\vlajkyPek\bin\Debug\vlajkyPek.exe.config
+C:\Users\Peki\Documents\SharpDevelop Projects\Hotové programy\vlajkyPek\vlajkyPek\bin\Debug\vlajkyPek.exe
+C:\Users\Peki\Documents\SharpDevelop Projects\Hotové programy\vlajkyPek\vlajkyPek\bin\Debug\vlajkyPek.pdb
+C:\Users\Peki\Documents\SharpDevelop Projects\Hotové programy\vlajkyPek\vlajkyPek\obj\Debug\vlajkyPek.csprojResolveAssemblyReference.cache
+C:\Users\Peki\Documents\SharpDevelop Projects\Hotové programy\vlajkyPek\vlajkyPek\obj\Debug\vlajkyPek.exe
+C:\Users\Peki\Documents\SharpDevelop Projects\Hotové programy\vlajkyPek\vlajkyPek\obj\Debug\vlajkyPek.pdb
